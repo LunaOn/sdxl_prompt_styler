@@ -518,5 +518,25 @@
         "name": "photo-tilt-shift",
         "prompt": "tilt-shift photo of {prompt} . Selective focus, miniature effect, blurred background, highly detailed, vibrant, perspective control",
         "negative_prompt": "blurry, noisy, deformed, flat, low contrast, unrealistic, oversaturated, underexposed"
+    },
+        {
+        "name": "cm-fantasy",
+        "prompt": "fantasy-themed 2.5D depiction of a {prompt} . magical aura, intricate details, depth and realism",
+        "negative_prompt": "lack of fantasy elements, simplistic design, lack of depth, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white"
+    },
+        {
+        "name": "cm-anime_adventure",
+        "prompt": "epic anime adventure {prompt} . grand landscapes, heroic characters, intense battles, rich storytelling",
+        "negative_prompt": "mundane, uneventful, lackluster, simplistic, uninteresting"
+    },
+        {
+        "name": "cm-film-photography",
+        "prompt": "film photography style {prompt} . classic style, throwback nostalgia, vintage color",
+        "negative_prompt": "painting, drawing, illustration, glitch, deformed, mutated, cross-eyed, ugly, disfigured"
+    },
+    {
+        "name": "cm-watercolor",
+        "prompt": "watercolor-inspired 2.5D depiction of a {prompt} . translucent layers, soft textures, artistic perspective, depth and atmosphere",
+        "negative_prompt": "overly detailed, lack of transparency, unrealistic textures"
     }
 ]
